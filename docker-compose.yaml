@@ -1,5 +1,0 @@
-services:
-  nianhua:
-    build: .
-    ports:
-      - 808:808
